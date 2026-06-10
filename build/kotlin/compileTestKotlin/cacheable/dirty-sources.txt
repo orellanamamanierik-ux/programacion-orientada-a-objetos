@@ -1,0 +1,3 @@
+/home/etec/Descargas/programacion-orientada-a-objetos/src/test/kotlin/Ejercicio1Test.kt
+/home/etec/Descargas/programacion-orientada-a-objetos/src/test/kotlin/Ejercicio3Test.kt
+/home/etec/Descargas/programacion-orientada-a-objetos/src/test/kotlin/Ejercicio2Test.kt
